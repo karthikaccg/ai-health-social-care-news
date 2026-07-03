@@ -5,6 +5,10 @@ import { fileURLToPath } from "node:url";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const OUT_FILE = join(ROOT, "data", "news.json");
+const IMAGE_CACHE_FILE = join(ROOT, "data", "image-cache.json");
+
+const BROWSER_UA =
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
 
 const gnewsUK = (q) =>
   `https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=en-GB&gl=GB&ceid=GB:en`;
@@ -148,7 +152,83 @@ function normalizeItem(item, feed) {
     date,
     description,
     image: extractImage(item),
+    // transient — used to decide og:image scraping, stripped before writing news.json
+    isDirect: !isGoogleNews,
   };
+}
+
+const OG_IMAGE_RE =
+  /<meta[^>]+(?:property|name)=["']og:image(?::secure_url)?["'][^>]+content=["']([^"']+)["']/i;
+const OG_IMAGE_RE_REV =
+  /<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name)=["']og:image(?::secure_url)?["']/i;
+const TWITTER_IMAGE_RE =
+  /<meta[^>]+(?:property|name)=["']twitter:image(?::src)?["'][^>]+content=["']([^"']+)["']/i;
+
+/**
+ * Fetch a real article page and read its og:image/twitter:image meta tag.
+ * Only used for direct publisher feeds — Google News redirect links serve a
+ * generic identical badge image, not a real per-article photo (verified).
+ */
+async function fetchOgImage(url) {
+  try {
+    const res = await fetch(url, {
+      redirect: "follow",
+      headers: { "user-agent": BROWSER_UA },
+      signal: AbortSignal.timeout(8000),
+    });
+    if (!res.ok) return null;
+    const html = await res.text();
+    const match = html.match(OG_IMAGE_RE) || html.match(OG_IMAGE_RE_REV) || html.match(TWITTER_IMAGE_RE);
+    if (!match) return null;
+    return new URL(match[1], res.url).href;
+  } catch {
+    return null;
+  }
+}
+
+async function resolveImages(candidates) {
+  let cache = {};
+  if (existsSync(IMAGE_CACHE_FILE)) {
+    try {
+      cache = JSON.parse(readFileSync(IMAGE_CACHE_FILE, "utf8"));
+    } catch {
+      cache = {};
+    }
+  }
+
+  const RETRY_FAILURE_AFTER_MS = 3 * 24 * 3600 * 1000;
+  const toFetch = candidates.filter((a) => {
+    const cached = cache[a.link];
+    if (!cached) return true;
+    if (cached.url) return false; // known-good, skip
+    return Date.now() - cached.failedAt > RETRY_FAILURE_AFTER_MS; // known-bad, retry after cooldown
+  });
+
+  const CONCURRENCY = 6;
+  for (let i = 0; i < toFetch.length; i += CONCURRENCY) {
+    const batch = toFetch.slice(i, i + CONCURRENCY);
+    await Promise.allSettled(
+      batch.map(async (a) => {
+        const url = await fetchOgImage(a.link);
+        cache[a.link] = url ? { url } : { failedAt: Date.now() };
+      })
+    );
+  }
+
+  for (const a of candidates) {
+    const cached = cache[a.link];
+    if (cached?.url) a.image = cached.url;
+  }
+
+  // prune cache entries for articles no longer in the current set
+  const liveLinks = new Set(candidates.map((a) => a.link));
+  for (const link of Object.keys(cache)) {
+    if (!liveLinks.has(link)) delete cache[link];
+  }
+
+  mkdirSync(dirname(IMAGE_CACHE_FILE), { recursive: true });
+  writeFileSync(IMAGE_CACHE_FILE, JSON.stringify(cache, null, 1));
+  console.log(`Resolved images: ${toFetch.length} fetched (${toFetch.filter((a) => cache[a.link]?.url).length} succeeded), ${candidates.length - toFetch.length} cached`);
 }
 
 async function fetchFeed(feed) {
@@ -208,8 +288,21 @@ async function main() {
     throw new Error("All feeds failed and no existing news.json to fall back to");
   }
 
+  // Real og:image scraping only for direct publisher feeds lacking an RSS-native
+  // image — Google News redirect links serve a generic badge image, not a real one.
+  const imageCandidates = capped.filter((a) => a.isDirect && !a.image);
+  await resolveImages(imageCandidates);
+
+  // Some sites (e.g. GOV.UK) return the same site-wide og:image on every page —
+  // not a real per-article photo. Drop any image reused across multiple articles.
+  const imageCounts = {};
+  for (const a of capped) if (a.image) imageCounts[a.image] = (imageCounts[a.image] || 0) + 1;
+  for (const a of capped) if (a.image && imageCounts[a.image] > 1) a.image = null;
+
+  const output = capped.map(({ isDirect, ...rest }) => rest);
+
   mkdirSync(dirname(OUT_FILE), { recursive: true });
-  writeFileSync(OUT_FILE, JSON.stringify({ updatedAt: new Date().toISOString(), articles: capped }, null, 1));
+  writeFileSync(OUT_FILE, JSON.stringify({ updatedAt: new Date().toISOString(), articles: output }, null, 1));
   console.log(`Wrote ${capped.length} articles to data/news.json`);
 }
 

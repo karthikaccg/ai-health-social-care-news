@@ -18,6 +18,7 @@ export default function ArticleCard({ article }: { article: Article }) {
           alt={article.title}
           gradient={cat?.gradient ?? "from-slate-700 to-slate-900"}
           label={cat?.short ?? "News"}
+          source={article.source}
           className="absolute inset-0 w-full h-full transition-transform duration-300 group-hover:scale-[1.04]"
         />
       </div>

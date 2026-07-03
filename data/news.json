@@ -1,8 +1,63 @@
 {
- "updatedAt": "2026-07-03T16:31:48.233Z",
+ "updatedAt": "2026-07-03T21:53:49.392Z",
  "articles": [
   {
    "id": "a0",
+   "title": "Yukon clinics are embracing AI — too quickly, some say",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRnkwWDVsVlNTNThxS1VmTzRJeE9kOUtRT2NmTU1qWWZyTUIyVWVKR3U1clBXTFBTM2IzUnJDcVdQVjB3XzUwU1pLWG9OWUs3WENCY215MXVvLUllMzRVQ2lOeVhkaVlwZVZvQTNJSUpwY0RpRXZNcUJybE1EeGhNaUhXZW5CM0F0MGc5VmMyZzQxQl9CYVJtU0xwY0pxcXc?oc=5",
+   "source": "CBC",
+   "category": "world",
+   "region": "global",
+   "date": "2026-07-03T21:29:05.000Z",
+   "description": "",
+   "image": null
+  },
+  {
+   "id": "a1",
+   "title": "Cigna (CI) Launches AI Pharmacy Program With $100 Million Behind It",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTlpxSjRMdktUckhJZnBoZ2pxZzFBM09nSWgwUEtVeHVrSmhmOFdtRXZBbzNHckdRN0l3U1A1MTB5QkpUUGduN0Zvc0tjazBSR003R3p0Zk5Eb1dwNzhzR0RRNF9QVWxIci1zWlROVjhrMVV5SVE5U1dWUFRnc3gzYTBFcVNmN2I4Rkt5TGZSX293OU9UQWlLOUZTeXB1Zm8yQ3lIZ0MtMXNrVUh0REg4aVBnYzVmaS1zY2EyWmprU1BkLV93QlJV0gHMAUFVX3lxTFBWb1pQODNMSHZ6alBkOTd0Z0UzX0ZYT1ZKVnZEWFQ4bTJJU2tmcnZUak1uQl92MGNLTmpNeGZvRXdaQy12X0FFWkcxTkM3N05faGpjemNtYV82dHlyZnZCZWlYVEpIbXZWSDNwQ0hjTXlGM3A2eEI3cHpvQ3JNRkRmMFRWNkR0cEZJS2N5ejVMc0ZhSWpxMzVuLXlIMHJZV1E2VWFVeXI4bktzeDVfZDNfTHhaeFJCRTgxZVYwQS1TTGFYZ1BPVTM0d0NuUw?oc=5",
+   "source": "simplywall.st",
+   "category": "world",
+   "region": "global",
+   "date": "2026-07-03T20:46:53.000Z",
+   "description": "",
+   "image": null
+  },
+  {
+   "id": "a2",
+   "title": "‘AI can make access to healthcare affordable’",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMDNHWHN5QXg2YU9Fblp4TW5iMjFEbXl1eG54OGU2cXVYWTJKX25XSU1EeUpBSHBWczRudUxKWFVKWERTYVltM1JzVUpMWEFOZUwzbDNIcWp5QVhtM0xzVkFBbEtlVEl0cGFkbFZ6WVIwOWxKNkN5cFV5Tm9wVThaZWQ1c3pHRm9naUF2d3I5NV8yendVclhtd0s0a2pIRnRuN2x4Z3NwX2RuUzlUT19RcmNB0gG4AUFVX3lxTE1pN3hhbXo3MGZ3V3hTWDdSWmpESjFjZjA3TnpUNUlZQUdZX3JGQjN5eUJJSzM4aWNraFdZTVRxY2dRYUQ1cWM3SEpwRjhhSk1PM0VsdGx3Si1Sd3FnTmJRVWZBWi1kZGpIU2R2clpMbjVlcW03Y0JueDRkVlpZNVg3clNxTm5KNGxlOHJ0TmI0aU1VN3lEZGM1RTZGa3duM2xjbDJmcWQxSFVNRWtLZjJjaF9jbXZmdmE?oc=5",
+   "source": "The Hindu",
+   "category": "world",
+   "region": "global",
+   "date": "2026-07-03T19:00:52.000Z",
+   "description": "",
+   "image": null
+  },
+  {
+   "id": "a3",
+   "title": "The End of Sliding-Scale Insulin? How Predictive AI Is Transforming Inpatient Diabetes Care",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fTXFLaTNROE4wQVc3SVhiZzZjaGxMWHU2aE5BM3pzNmFwNGp4R1FJMkluUUVJR0pvU245VldSdEFUX0tDX2hNTWs1V1NIc1dSZXhhRjNZeTNoVTlnSXd6aUZNNVkyTjg?oc=5",
+   "source": "Diabetes In Control",
+   "category": "world",
+   "region": "global",
+   "date": "2026-07-03T15:21:00.000Z",
+   "description": "",
+   "image": null
+  },
+  {
+   "id": "a4",
+   "title": "China's AI Job Boom Expands Into Manufacturing",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ2pyak5QQ2FKZmJYUGU1MkJLYTBudmJSZHdmUVJaSmVXTTBIeWUwWUxXbHp4YWs0VjRmc3owNy1Bb2VqaWY4VXhZTlRieXk3WVpsTlRlZVVUcURzb2oySGI5Rjkwd0M1NDVUcXlPTUI5c19TWWpubGRmZ3NZY3ZmWm9LeTZHZlkzZ1Z1UlpSTjA?oc=5",
+   "source": "Let's Data Science",
+   "category": "world",
+   "region": "global",
+   "date": "2026-07-03T14:47:14.000Z",
+   "description": "",
+   "image": null
+  },
+  {
+   "id": "a5",
    "title": "Catalyst Health Group Put Matic’s AI to the Test. Here’s How It’s Going.",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWUVOWHVNMmxycFlQQkQtaTFvM0FFRjVwRnFlcEtZQWdSeFo0dGU5V0lseVduQnMxN0xvVUFhWm1zaGR0UzF3VVJPeGo5a00xaGFNcXNQLXB0dlUya0ptSGxESmZLTVZ2emxUREItbjUzWllUd1BKR3ZWTXdkSHl3eWFqMXZSTFE5TklyeW52R2c5LXV3?oc=5",
    "source": "D Magazine",
@@ -13,18 +68,7 @@
    "image": null
   },
   {
-   "id": "a1",
-   "title": "Anthropic wants to develop its own drugs",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUJoM1JuTHA3NFFTR29IZUJZM1FVbEx6WThBTnNlWjAtMjliYzRiYkU4azVqV1BOS0JmdFBiMnUydWVtQW9OaWx0UXQ1ajMtMERxR2hCZWw0NFozWDB5dHpDdUZYMGlYT3dvTzNHaHRKR01TYmRJbjBBUENXdVlwTmVNTFA1dWxuUDVrc0dIWE5XNEJxcW5JMW01RTdzSUl3czM2SmN3?oc=5",
-   "source": "The Verge",
-   "category": "world",
-   "region": "global",
-   "date": "2026-07-03T13:56:52.000Z",
-   "description": "",
-   "image": null
-  },
-  {
-   "id": "a2",
+   "id": "a6",
    "title": "Leaders in Care Awards 2026 – Nominations open",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wc1o1cGU0aXdkRnFvcUxoQ2dKMk4yaC1ZbVQ2RUNIRVcwRHRuMzFmT3V5NG94bjY2cjRoRW5PeVE0ZERERnlDQTlfalJtWGY3dk5pc3MycjRuLWZaNE04VE45VlJSdF9rZkRTOTZUdDh5dWNsYVBDZUxfWEQ?oc=5",
    "source": "Home Care Insight",
@@ -35,7 +79,18 @@
    "image": null
   },
   {
-   "id": "a3",
+   "id": "a7",
+   "title": "Malawi's adoption of AI in healthcare is reducing pediatric mortality",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTZYanlyWXI0WndyM0NoZHp4SjB6WFN5ZDd5ZGFYc1RubWYzWXpnLW5lQmdhQThXZ0lBa1ZNRzh2Z0VsUGpndGtzd194b2RXWnVtS0VkMG9MTGZCSVpPNl8yUHJuQUR6ajBNbkdsYk50a1NQcU5yMUNzRzM1NlFqSm9EdzJ6N3ZmR1FjM3VZaGptaHdnVTZvdUhaRkJWOVlnTFd5YllMWU0?oc=5",
+   "source": "Connecting Africa",
+   "category": "world",
+   "region": "global",
+   "date": "2026-07-03T11:35:43.000Z",
+   "description": "",
+   "image": null
+  },
+  {
+   "id": "a8",
    "title": "National review opens to inform revision of digital clinical safety standards",
    "link": "https://htn.co.uk/2026/07/03/national-review-opens-to-inform-revision-of-digital-clinical-safety-standards/",
    "source": "HTN",
@@ -46,18 +101,18 @@
    "image": null
   },
   {
-   "id": "a4",
-   "title": "Malawi's adoption of AI in healthcare is reducing pediatric mortality",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTZYanlyWXI0WndyM0NoZHp4SjB6WFN5ZDd5ZGFYc1RubWYzWXpnLW5lQmdhQThXZ0lBa1ZNRzh2Z0VsUGpndGtzd194b2RXWnVtS0VkMG9MTGZCSVpPNl8yUHJuQUR6ajBNbkdsYk50a1NQcU5yMUNzRzM1NlFqSm9EdzJ6N3ZmR1FjM3VZaGptaHdnVTZvdUhaRkJWOVlnTFd5YllMWU0?oc=5",
-   "source": "Connecting Africa",
+   "id": "a9",
+   "title": "AI's Expanding Role in Precision Oncology",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNGRkZkxScXFqT1VCdVdEMXd2Zk5PZXM5UldWZHEwQmxOSXdjSjNRa2Y4c3U2UFl2VzFpOUIyYkJpZTBWamozeE1acnFKSHl3T1pXSC16eEp0MWVvVmVULWVobmMzbFlkdkRtTHZkdkJWN05ab0tyXzhrMldsNVNZSmloQVQ3UW1o?oc=5",
+   "source": "BankInfoSecurity",
    "category": "world",
    "region": "global",
-   "date": "2026-07-03T11:22:21.000Z",
+   "date": "2026-07-03T11:32:27.000Z",
    "description": "",
    "image": null
   },
   {
-   "id": "a5",
+   "id": "a10",
    "title": "Will AI Replace Healthcare Jobs? Not How You May Think",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYWpqUDUzZHFtUGp2Q3pHb1JDYktPb0RGdFpxTTk5ZGhNUnZROVFjZ1Yza0g5QUVVUGtXUVVibW52T0ZNbXBaQWI0UEtSTVU5dUFPOFUyejhvMFFSdGtpbnZ6NjV1OGcxX2Z2blNNVFB2NWNkY1hYOElzZTMzb28wLTU5MEtLcGs?oc=5",
    "source": "Forbes",
@@ -68,7 +123,7 @@
    "image": null
   },
   {
-   "id": "a6",
+   "id": "a11",
    "title": "Data Security and Protection Toolkit compliance reaches new high",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUHBQcHlocV9OT0ptNnV5X1RvODE3YUozRGhYQW1INUdhY0oySTlRUVNTYmo2OUttTEh2VTJXa0Q2STQ5MDFSMFh0WWRWbU9YZVNFbFgtanJ2ZXBiS0tUQjdnTGt2b0Frdl9qenI4eDlGa1JMQ0RlYWJwS0xnWTBHTkZVTDNlbngyNjNHUVRZeXlBWDVyejIw?oc=5",
    "source": "Caring Times",
@@ -79,7 +134,7 @@
    "image": null
   },
   {
-   "id": "a7",
+   "id": "a12",
    "title": "DoH and MIT- Koch Institute Partner to Advance AI-Driven Cancer Research",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDc5Nk1kbTFEYTg1UUhIZ2duYm1jd3dNckV3WUxBejhuc1doWjd6SHk3YjRTQUMxTVFRdUJfZTlQOUZQWk9BNU1RVlVnMDVfeXM0aVFaaDdOZUduR0FBMDYwMklmdF9yS29MdTJ0R0NtMXJmbHM1RzkwcEdtUlY0RUJ4QkpCSFF3MGtaODFsZ3ZvOTBXTFhMUWZjREFpTy1FS2d6d0JaRmJUeDN5SnJrT0pDakxLSHZIWGM4emNLS19zZFlLMFE?oc=5",
    "source": "PR Newswire",
@@ -90,18 +145,7 @@
    "image": null
   },
   {
-   "id": "a8",
-   "title": "Barriers to understanding how many people use AI for mental health support: an estimate and narrative review",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzTTJscjlWY3FncVllZkRWb09ibzgzWnNyamVRUzQxLVk2WkxrcDZiSEhwV1hEbnp6ejVmWVNCUktwNXR5QVJDNWlUZlVkS1pFU0xFb0xGN0lJdlVPX05J?oc=5",
-   "source": "Nature",
-   "category": "world",
-   "region": "global",
-   "date": "2026-07-03T09:51:25.000Z",
-   "description": "",
-   "image": null
-  },
-  {
-   "id": "a9",
+   "id": "a13",
    "title": "How Bayer Uses AI to Advance Drug Discovery With Iambic",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWnJwMDhNMUhkUjdOckpyS3EyTXpLNjdiSVBlOVhWWE5YYjQxcFRhWHRKMGRoMHYtWWxnTE9iRFBxckdQYWdWMXRpWnlVbUtBMHRJcENFa3padTgtZ3I1NnMwZDY0WHZ5Z1JKbWxjeDJyU1cwZ3hSb1VpNHM1SEJYejBQRjNJcnd6Ym11eHI5Y3Jvc2RxUHc?oc=5",
    "source": "Healthcare Digital",
@@ -112,7 +156,7 @@
    "image": null
   },
   {
-   "id": "a10",
+   "id": "a14",
    "title": "The future of digital and AI in cardiovascular disease care",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc3lJU25MdXJnYzZPMUhfSHdqTkVMZzdYWDlsWVp2MEVwdGtuVnJkVHZLaFREdW1pdlpKXzhVQ1R2RU5WaEJwUEZla3RXLUFvVDdDWEJLWGRlZmdFV19PSmc3RGJNb2xVOXVHQTFoTmFpLVFEUjFJWkgwM0hWX0ZoVmF4YTdpSVhFLWZsNjF4dUJIbngwQS1hMHpoY1Z3enVqUlRGZXQ1VQ?oc=5",
    "source": "Open Access Government",
@@ -123,7 +167,7 @@
    "image": null
   },
   {
-   "id": "a11",
+   "id": "a15",
    "title": "Haleon and Microsoft Expand AI Partnership for Health Tech",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNEo5Y2o0M1Q0VXd6VUdmQW43UVQxNnh6MVBlUUhjNHJvbEh6MnZuRVRLLXVpb2UyLUVMYjQ5UGpRaktJSnhESnQ5cnZNcUZyOGRHdXhRT1ZLNGZIVXMyNTREaVJWNDBDa2NIYkh0a2VGaWV0UHoxTThpNHpWd1ZkLW53cmdMcUlmVXlHcHZ6c2lWbk9lOWNRbm1B?oc=5",
    "source": "Healthcare Digital",
@@ -134,7 +178,7 @@
    "image": null
   },
   {
-   "id": "a12",
+   "id": "a16",
    "title": "MedPal AI raises £5 million to expand care-home platform and support oral Wegovy launch (MPAL)",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT1ZuWDg5VkdyanJ0eVF2TXl0UzBpVS1YRkEzaTZ5S2F2LUdEREJsOHlTNzFIcFVBQW1oZTdRWG81YkZoRzNBckZuVlBRQTZXWFhlWTNCMWlUeWdmaTBhaGZ3NWV3aGJ3Y1Nad0pvb2dKYlZkckV6WnZaeGtfcU40UA?oc=5",
    "source": "Yahoo Finance UK",
@@ -145,7 +189,7 @@
    "image": null
   },
   {
-   "id": "a13",
+   "id": "a17",
    "title": "DaVita (DVA) Expands Integrated Kidney Care With AI Tools For Dialysis Care",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSG5kRFBPM09TeU5ReHZNOUxjRjBWZ05UbHJrZ2dCa21EenNIdzhHOW5MWWdja3dtNDNJRERCbU5QaldpMjg3Q2JvRF9zSl9LZW42eDByTkxCclhieXFNOVJBazd5dElyNnNIb0dvR1FkbXFYVmdoY1kzR1hQbkJQQjdCSUlQQmpaTmtzSnBza0c5MEl4YnlLZ2ViOUdldw?oc=5",
    "source": "Yahoo Finance",
@@ -156,7 +200,7 @@
    "image": null
   },
   {
-   "id": "a14",
+   "id": "a18",
    "title": "Singapore's family development ministry allocates S$15M to pilot AI, technology solutions for social care",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSGFMWFhCTU9zVjg2MUFoY2tqeWhFRlI0eHlDcnF2QndFSXFWYnZ2TkFIV0VCWlpmNzZDdk5pNHd4RVl1M0VTVUJxY0FrZnU0am1MN2hvbWM4cXU5cWJQWXhyX3FlWm84eEpLbXBuWGpLRkNrR1VXajNSS3BwYlJzcjNhUEdlYkVVaXE3N0VPZ0VyN0hZUkpSRVpSR1pRYlBHN3hiejJyNFdpd3huYTBqZnEteHpKdzVpRV9za0dCYUREVU5iZm9QU01TTUVBMjRhZ1lUOQ?oc=5",
    "source": "TNGlobal",
@@ -167,7 +211,7 @@
    "image": null
   },
   {
-   "id": "a15",
+   "id": "a19",
    "title": "Healthcare’s AI Push Outpaces Infrastructure As Shadow Risks Escalate",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMENzLUlaVmQ5OHVGWURQU3d0bzcyU2FuQXg4X3A5VG1kaTFJM0lQdTZtaHNfMnZELVFPNzc0ekktU0Q4VjA4LVNYbXdRWXZteDhMa24wV0xpVTlEbGZreVd3eEpZbTcwU0MwNkk3R1FlejR6Rlc3MVVtdElaeUhOWDlBcUJ4blhTRUJMYkpabmxxZDJJWklN?oc=5",
    "source": "FutureIOT",
@@ -178,7 +222,7 @@
    "image": null
   },
   {
-   "id": "a16",
+   "id": "a20",
    "title": "Pfizer Stock And 2 AI Healthcare Picks Investors May Want To Watch",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdkxUWXQ4cC1ueF9LY3RIQjdkcUR4VWlwY2R4Tk1JeTctZDhkS0ZLeDMzSjlKWEpObW1zN2d1XzJvLTZRcHlKaTZhaVJ2bGt0aUdIU3lEbFBra2owNnBJMFdDd1JoZjBfdWs5NjZxcWx3bnNOVWJhaXhPQUEwS0tXeTVkcFZIU3czbDlPUzNVZVZyckg2X1JTa0ZCZS1FSlZCNVBFeDlxYUxfRk1DSlNyM1dLU1ItMXhLUnJuekp5SWRueUg4ajJiQ2xCQnNjdy1RZ0HSAdcBQVVfeXFMUHJmUG9BRmw5c3dZeFNWakZaLTZrVWNvRkRHZ2x4M3JrNGpXZUFGVkJmX2cydlVocnhYRUVNVGU5cXVQMW5xcG03d2pWVHBXZjN2UF9Ra0FENl9VcWF2cUFpaGpoYkpNV21BWnJhckFGVjd6SVBRSC1NZjBnXy1sOFhHSjRXNlRwNkpzRF9NMWpzZnJSRHhkc1dIc201OWJWZ0RqbFI2ZVFaeDBaUGtjeXBZRVJRTTFrN1MxNE9oVFFkbkdCdTU3U0FZbmg2cGxfYzMzR2dyRVk?oc=5",
    "source": "simplywall.st",
@@ -189,18 +233,7 @@
    "image": null
   },
   {
-   "id": "a17",
-   "title": "Health Care Up on Rotation Out of AI - Health Care Roundup",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWm10S01VVkdvcEhmS1NDWXFDazJRYXd6TDhmREgzbEI3Y2ZPMVJ1UUhnMUVwYXNRSWM0Z0VOcVU5Ykg0WXZPVVJKMTRrS2R2ZGY4QzdrZ2xodHV5bEtJM194TWllNGU5b0VZenpMY2tDcmNTcllLZ09KU05PdW1qRFUtNm5iYUk5OXA3bGI4Zm43Sm9fLUM4Mi1Mam9CZld0WjhmclNlclZBckc4U1E?oc=5",
-   "source": "marketscreener.com",
-   "category": "world",
-   "region": "global",
-   "date": "2026-07-02T21:21:20.000Z",
-   "description": "",
-   "image": null
-  },
-  {
-   "id": "a18",
+   "id": "a21",
    "title": "Anthropic Unveils AI Tool for Scientists and Medical R&D",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMDZoV01WX1RncktOcUNFRmRsU1BSMlZ3STVFU18wX3VaS3M3NU1zZHI2RHljOHdmWm9DUk00TmJKM28wWmNzak5UejA1S3lnNy1weHA2enlWandZY0dtSEpKREFKMGpEazhDRHNHTGJ1RHlvM1l5dXh2MkZYWFIwd254ZnRVaXoxYnkzdUZucUx4dXUzY0M0?oc=5",
    "source": "BankInfoSecurity",
@@ -211,7 +244,7 @@
    "image": null
   },
   {
-   "id": "a19",
+   "id": "a22",
    "title": "12 Nurses Say They Are Being Replaced by AI",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KcDVZdC14YVBzNzlYcVRTMU44Wm1Sc1VlaWxEWHhTUjhaSENITU1YUFZjYkxKb01iY0Yzay1PREQ1VnFoSDUtaVlHWGEzYURvSG5raUVfSEtyRzNabmlDYw?oc=5",
    "source": "MedPage Today",
@@ -222,18 +255,18 @@
    "image": null
   },
   {
-   "id": "a20",
-   "title": "Waste stocks ride AI and healthcare boom as CLH surges 27%",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaFBaOEdvczlRNmJiQ0VnMFlCUVNWNllhM210UWttLTdDZEF1Y0EyUzF5M2lsVFBkTU9faGRVZjBtM3RWVzhHX183eDJDWE1VWGF1b1V3V0dVZUhjLXFWcjhmTk02dUVwRWlmRVMxNVFjeHJpdnltS2NTazNvTzlpa1JUOHdQTHdSMU91NTNfNWVaN3JUaFJYUXR3UmlpMmtmYjZCcUJsSEF5Yy1QelNjczctLXR3bWNyNlg0?oc=5",
-   "source": "Investing.com",
+   "id": "a23",
+   "title": "Study: Hospitals' telehealth scale indicates digital readiness for AI",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU0pqeWJ6SlBkR3htbFQxQWdia1ZhT2Nmc1VUbE1vMjdqeVNQX3ZwLUE4XzN1ZkxYeGxQcjBVVkQ0VmgzUlkwQm1nUXBVVXozRUk3R05xSUdTN2c5a2VNY0lNMFFLQkItRXlrMDNtY0JJOEtrdEExLUZMUGE0WmNWLU5hQy1LMURYSkpmX0ZBTmRqZng4UUlZb2UxdjRLRXFKMjVIbmFpOVhiMVluZzR4aVJJWG1DSkdEQVZucXMzcmpndnpzV2c?oc=5",
+   "source": "TechTarget",
    "category": "world",
    "region": "global",
-   "date": "2026-07-02T16:31:30.000Z",
+   "date": "2026-07-02T18:15:27.000Z",
    "description": "",
    "image": null
   },
   {
-   "id": "a21",
+   "id": "a24",
    "title": "Transparency data: NHS injury costs recovery scheme: April 2026 to March 2027",
    "link": "https://www.gov.uk/government/publications/nhs-injury-costs-recovery-scheme-april-2026-to-march-2027",
    "source": "GOV.UK DHSC",
@@ -244,7 +277,7 @@
    "image": null
   },
   {
-   "id": "a22",
+   "id": "a25",
    "title": "AI in Healthcare Procurement: Cost Versus Quality",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUktOSHBadWRncG44eUU4R0UzTzdvckxCeGh3eWhJOUZQc3NrQWMxWUFhZU1NbUQxcFZoTzZ5aDNfendQbFNVMjVESVlaa0c4b0dldjV5VDhzMDRFVHBxVmNMTXdNeDhmY2NJZnVpTmkxcTR4Tk40dlFTUERPYjJINHhoeXQ3NmViQzdrZg?oc=5",
    "source": "Healthcare Digital",
@@ -255,7 +288,7 @@
    "image": null
   },
   {
-   "id": "a23",
+   "id": "a26",
    "title": "Why high scores do not mean application readiness for health AI",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QeWE3MmpTRWN6TGNEYXBQa0RKUDZjNmVfRnJxUVUtVHRJX1RPRklnczZxRDR3TkdJdEVzekxVYjRYaWVQMTU3eGlnRTQ3Tmd4ZzJ6LVlxUkxoUUh4Sktr?oc=5",
    "source": "Nature",
@@ -266,7 +299,7 @@
    "image": null
   },
   {
-   "id": "a24",
+   "id": "a27",
    "title": "How Microsoft AI Promotes Face‑to‑Face Social Care in UK",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWUgwYUhWQkRfLXZ6UzB1UEhUUnluc09NTnRhNHJCamJzZjd5WDA0VW1mTVRHbnVVc0RhZTRpQUxqT2k0TlgyaEFaRmx2akNjSmdlNjhFYzZnd0xqazRnLWlvTnVja3pvckpTUXAzRVJYamdfamx4Znkta094MFpWdlBaSWFzS0hvYkZ6UA?oc=5",
    "source": "AI Magazine",
@@ -277,18 +310,7 @@
    "image": null
   },
   {
-   "id": "a25",
-   "title": "Optimizing End-to-End Revenue Cycle Workflows with Health IT Solutions and AI",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQmoyQkFpZ21xd3U0WngzUmhHU2hxazBnMm91N0hHbXhBejgyWmtVUFVmRDF4SHYwVE45RlNXRU5RUWlVZktoUjJVSnFfX1puZXQ2LXFMRll4SXNWbmFFVWxsUnJfbWdHLWJsYTF6WmVfNXBjUXZNYWJVS2t4NG9UMVVjS0pfYlB0NzJoclF2azhUa2hCZHUxb1B3N0EyNHhsOVJGTlA1dzBRMzJjTi10d242ZVRvcmVnYkZ6aVJjTlc?oc=5",
-   "source": "Healthcare IT Today",
-   "category": "world",
-   "region": "global",
-   "date": "2026-07-02T15:05:46.000Z",
-   "description": "",
-   "image": null
-  },
-  {
-   "id": "a26",
+   "id": "a28",
    "title": "Scotland has already made the case for proactive care technology. One category is missing from it.",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzR1NmJWTndBQzhncUs4RzQwc3NIX2ZkX1pHdE1jNlNuWVFHRXNtX01rTjI4b2l0eGJYYWJSVGV4TnIwU3FiZVZJV0N2UElPc3pfeU1fcnJoVEp6a3AwQjhIVXJXOTlDVFo4MUw4a2NWOWE4UnFYbHd4SGktdHZONGo1VnoxLW5oOUNoaFJOcW9QamttbUFLenkzOVBsdUZtNUx2SlZfX0c3T1BpQV9sV0ZVaG45S3RQTTRZUNIBwgFBVV95cUxPa2o0QnJGcVdwdHlzNUxSczg0QVBFMWpBelg4R2NSZF9ULXBtWUZBbzEtQ2ZiM1licnFpXzR0bzM3dVpreE5XSUtYelVLcE10dXMySVhGc3ZxcHFYM2VfTV90aFBSQ0hZcnJ1MWNKU3RUTU9Xd3VYamVKWmFDWUg5N05RU0Iyb3pJa2xPUjhKTmR4YVZTZ1MzLVJqS2N5dF85UFZXU3VwVDFSaHhCdzQ2c0k2ZUt3RkUxMlVZeERvVU9udw?oc=5",
    "source": "FutureScot",
@@ -299,7 +321,7 @@
    "image": null
   },
   {
-   "id": "a27",
+   "id": "a29",
    "title": "How global healthcare AI implementation varies",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbmR3MmVPXzRFNGZIOVFPOUYyRWI4T3pYcDNlNGhkNlhCNFJsODlPekN6YmlxM3VFY1pMZDRuNTFmUmxNOTBfLTRveGR0ZmNyZzVyLXFkSTNhQU5za0IwVTNyWTlicEd2c3hHRW9Ua2ppd2U0MGVtd0dRYlU3X0ZqQmtGc1N5ckRUbEhHcld6ZGFyMWRl?oc=5",
    "source": "Healthcare Finance News",
@@ -310,7 +332,7 @@
    "image": null
   },
   {
-   "id": "a28",
+   "id": "a30",
    "title": "How home healthcare providers are using AI to avoid compliance gaps",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZzEzQ1Y0UktXZVZ3NGMxRThhV2d5U18tTEJheXZ1bE1qLWNLZG1mbkRURlBLVVZUVXg0SnRNMWFaTGxGTk9XYlpuaEdOMDgwUFpTQVEwQUZTMDZYWnFtWTZ3ekt5eXljNGNCUkM0MkVSTXQwMExVUHQteFAzSXpjOURZZUR4ZDA0MVpFeUgzSmZrUi1VWkRuVFpaM19BbVA0b2RjVXlQSTliLTFnX2U2UVpNNDhqdWF1RkZnTjRGVQ?oc=5",
    "source": "TechTarget",
@@ -321,7 +343,7 @@
    "image": null
   },
   {
-   "id": "a29",
+   "id": "a31",
    "title": "What Happens When AI Stops Answering and Starts Handling Healthcare Tasks?",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMl9sZE5TTzgxb3NYS1BHQXNSekgwWDdZRUdGVDBkNGxOWC1vVWlndlN0bXdfdURSZm9OUHlMdjVjaE41WlFRaHpEMkJWaFZHd2lmZjZwQmg1emRkNlc2UHpTN1V3aG1oMDFNbGdIaVhWWFo4eFNfS3NjZkpNZndmd2U5eWI0Vnd3VE1ld19SVWMyYTNOdkd5MndDandlLTc2bnVma0FjUG5fUQ?oc=5",
    "source": "MedCity News",
@@ -332,7 +354,7 @@
    "image": null
   },
   {
-   "id": "a30",
+   "id": "a32",
    "title": "Medicare's health tech spending test",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XUXVPSTI5dXVwTFdnaDhfcU5CbUJqU2lYZ2VJd0hmR0IycWh6SWpqbDNBZzE4UFY3UURIdDdqOUtQS0pIQlY0bkU5bDE5eFF4enk1R09OVThvX0R5ejE3LU1LTzVXWF9LOTdHdUV2WTRHZk40Ry1j?oc=5",
    "source": "Axios",
@@ -343,7 +365,7 @@
    "image": null
   },
   {
-   "id": "a31",
+   "id": "a33",
    "title": "One common barrier to healthcare AI success: Confidence",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkYxcG5Xb3hJSTluS1duTURLaFdPb1NMd2NJZHhzZzBIVjNqT0FQSnR5ZmM3cmFYLWtLRFd6SlhiSUlScFN3SkE0OXlVcUw5aE0tN1M3UnlHU1VUSXFQOUp6YWhueTlnbGFBZmpfZDE0YktibnJpR0c2a3M5TlhiS1U5MHpZdWI2YnUyMURVQlNZWm5S?oc=5",
    "source": "Healthcare IT News",
@@ -354,7 +376,7 @@
    "image": null
   },
   {
-   "id": "a32",
+   "id": "a34",
    "title": "Are physicians next in AI health care layoffs?",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObkY5RnBqUDRTNDNmSmNpX2p5YmdId1E5Uk0xYlFYRFJ3UjdlR3NSNEd2UWZrNFFfRnRKdWtsSGpFNGFpRGFrQnFJOHc5SGttUC1scll4SjZvT3lLTHgwTjg4TkJZMG1NRVYxNzZVV2M3ckFPNjBsVTBpRC1HM0p5VXJNNkk?oc=5",
    "source": "KevinMD.com",
@@ -365,7 +387,7 @@
    "image": null
   },
   {
-   "id": "a33",
+   "id": "a35",
    "title": "Can AI really rescue clinicians from the burden of admin?",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdXZkRTNqdnE4VWtiUVVuTExSSi1yZEJqUE5zekktYTlodjZTQkNaSXRsZlkyakN4aWRlY0gwRmFrSnA4b2o4cUp0bm9CcXJrVjJXbHRENWxxYjVMQ3JqU2x5WTNSc2U5RkZ4UWRkM1JfdUtzUjNBNVVUci1BVTVEazBNUGUzZUNmUzZES3J0bzA?oc=5",
    "source": "Healthcare IT News",
@@ -376,7 +398,7 @@
    "image": null
   },
   {
-   "id": "a34",
+   "id": "a36",
    "title": "Complaints soar at leading NHS hospital with patients turning to AI",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa3NVZFJtS0tzTDhSeHU3S2dKSDIwelpadThNS01YS09mVGZ2akVQWW9hRE5ieGpncE8yNzFBTkZ5WFRUaVczeS1PRG9EY2xLWElFSUVYbkktOUJqc1l3Zkw1QXdRcU94M09udFdnc3Y5dHFBOXlGbVlROHZvdk9JQkNvaFl3MF9QQl9qZ0NZZjJhLVl1aTVOS0lTTWVVZFozaXZXU2ZoOS1hS3ZwUFE?oc=5",
    "source": "Border Counties Advertizer",
@@ -387,7 +409,7 @@
    "image": null
   },
   {
-   "id": "a35",
+   "id": "a37",
    "title": "The real test for AI in healthcare is making care more human",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLV0t4YlRsOUFNQW90VjVyQUp3SmtJaUc4cGdoR2VHQy1SaS15cGZORTJsLTRic3c3ZHZUVXRTZnVQSHpLNEN2ejlLNUlTOS1rRTBXRXdYNHBPeS16SklfRkJ3M0twNkJEeG5qYXN0d0NRckhtN01nbEV6Z0M?oc=5",
    "source": "The World Economic Forum",
@@ -398,7 +420,7 @@
    "image": null
   },
   {
-   "id": "a36",
+   "id": "a38",
    "title": "Digital Health Coffee Time Briefing ☕",
    "link": "https://www.digitalhealth.net/2026/07/digital-health-coffee-time-briefing-%e2%98%95-180/",
    "source": "Digital Health",
@@ -409,7 +431,7 @@
    "image": null
   },
   {
-   "id": "a37",
+   "id": "a39",
    "title": "Healthcare AI governance, data quality, and interoperability top industry agenda in mid-2026",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMzMzTnEzOF83WUltLWx6Wlp1Vm0yMVZjRlBETDRQWHg0c2xNSEVnVG9UWXdXQ3A0bW5LY3ZST3ZkeUxlSHk0MVlqa0dpdlRacGFCakNHekFmZm5xXzg5S3Z4TFpKNnR1dkpVX2tFc09yUUhRU0M1YkFrb1BoSFoyTGozNWhKNUx1cjFWQ2hwcTlVektqU3lRalV5aWpBdTFobWwwVkRfSTkxbkR4TkdjanJaM3MyM3R6a2t0cGlDRk5mQkZEbERPYTdZdWIzYTBTX3U2S3R0RQ?oc=5",
    "source": "MarketScale",
@@ -420,7 +442,7 @@
    "image": null
   },
   {
-   "id": "a38",
+   "id": "a40",
    "title": "De-skilling, mis-skilling, never-skilling: an AI-ready workforce needs a skill-decay strategy",
    "link": "https://www.digitalhealth.net/2026/07/de-skilling-mis-skilling-never-skilling-an-ai-ready-workforce-needs-a-skill-decay-strategy/",
    "source": "Digital Health",
@@ -431,18 +453,18 @@
    "image": null
   },
   {
-   "id": "a39",
+   "id": "a41",
    "title": "Technology helping residents stay independent and connected",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX2gzaDAxSzh4em42RU1naFlyRWtzVG9UM0ZBVVhOelBvamVKbXFkbk10NTVwRV9GS2RSYnlYSXI3LXhuaGFRYkpuaHJvN09RV1hndWZIRU5URWtLODJ5OEllOGZ5TnMzWlVxR2JoaG5QbkxvSVNHMnNkRGdvX25lMW42am9Bbm5BNGdTczl2dFcybWNyVGptLXI2WW1ucFFMSjlfTzFEWW1PWmtxN3pIWk0xMGJNUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY3ltSXF1UnRMR1ZwNEZXelhTWmtZVzlycExqYVZIUlRaXzlhQ3Z4QXdHQnhHWlNvSE8tTmMxcGE3eGFJTzdJVGhRTUYwRFBqbTNINU5jNHZ2dUJRNDdKck1qNS1LbVNmdjlENURKbmlpSW5PWWZrSncwMmFMRUtZS0NCUWR1d2RPMXhJeDBGZ1hWYWVUUTh1dnlsZDRfNkxLX2tMeUwxQzVpZlZlR1VnMk10cnZQZw?oc=5",
    "source": "South Lanarkshire View",
    "category": "social-care-tech",
    "region": "uk",
-   "date": "2026-07-02T09:56:15.000Z",
+   "date": "2026-07-02T09:55:07.000Z",
    "description": "",
    "image": null
   },
   {
-   "id": "a40",
+   "id": "a42",
    "title": "Official Statistics: Adult social care client level data, England: quarterly update to March 2026",
    "link": "https://www.gov.uk/government/statistics/adult-social-care-client-level-data-england-quarterly-update-to-march-2026",
    "source": "GOV.UK DHSC",
@@ -453,7 +475,7 @@
    "image": null
   },
   {
-   "id": "a41",
+   "id": "a43",
    "title": "Guidance: Safeguarding UK human genomic data",
    "link": "https://www.gov.uk/government/publications/safeguarding-uk-human-genomic-data",
    "source": "GOV.UK DHSC",
@@ -464,7 +486,7 @@
    "image": null
   },
   {
-   "id": "a42",
+   "id": "a44",
    "title": "DHSC opens engagement for GPs and practice managers on how patient data is used across the NHS",
    "link": "https://htn.co.uk/2026/07/02/dhsc-opens-engagement-for-gps-and-practice-managers-on-how-patient-data-is-used-across-the-nhs/",
    "source": "HTN",
@@ -475,7 +497,7 @@
    "image": null
   },
   {
-   "id": "a43",
+   "id": "a45",
    "title": "Sheffield City Council awards £8.9 million contract for tech-enabled care",
    "link": "https://htn.co.uk/2026/07/02/sheffield-city-council-awards-contract-worth-8-9-million-for-tech-enabled-care/",
    "source": "HTN",
@@ -486,7 +508,7 @@
    "image": null
   },
   {
-   "id": "a44",
+   "id": "a46",
    "title": "Immersive, simulation and related technologies purchasing framework extended by two years",
    "link": "https://htn.co.uk/2026/07/02/immersive-simulation-and-related-technologies-purchasing-framework-extended-by-two-years/",
    "source": "HTN",
@@ -497,7 +519,7 @@
    "image": null
   },
   {
-   "id": "a45",
+   "id": "a47",
    "title": "HTN ICB Region Series: North East and Yorkshire",
    "link": "https://htn.co.uk/2026/07/02/htn-icb-region-series-north-east-and-yorkshire/",
    "source": "HTN",
@@ -508,7 +530,7 @@
    "image": "https://i0.wp.com/htn.co.uk/wp-content/uploads/2026/07/ICS-Index-Web-Advert3-copy.png?fit=800%2C600&amp;ssl=1"
   },
   {
-   "id": "a46",
+   "id": "a48",
    "title": "Nebius celebrates healthcare and life sciences innovators at expanded AI Discovery Awards",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeXlPUjBvV2dVU0RqdnhBVE84ams5WlVTdXN2d2MwcExsWDBxOEhxVzJRQnVMd1hLdXRSZmxfMEkwdkZYLTNDVW51eU1QTEsxWE14T0lFZmhQbGQ3R2o5cmJySnNEajdfdFhzbTB2Sm1BMjRBUmJVZURZdERjQkVIX0ttaHZnYmZEMGdSNnBVckhnRHhsNVhZaUFnazRFNThLU1NGb3pR?oc=5",
    "source": "Yahoo Finance",
@@ -519,7 +541,7 @@
    "image": null
   },
   {
-   "id": "a47",
+   "id": "a49",
    "title": "How to Successfully Integrate AI Medical Coding with EHR Systems",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EYkh3dVc5Sl9sSUVvQVFIMkpCVHRfNDBURm1DZHlCSWNOalVPLWtwX0k4VGJZRmNaT3NyZDVRY0hISXY1MHdjTDdXM0tFcXE4Q2NtY3N1b3ptQ0xwaVNaamRIQ29nR2Zjb1RzbUpPaFJ1WEw3Wlo3c0RmMW5zT2c?oc=5",
    "source": "WorldHealth.net",
@@ -530,7 +552,7 @@
    "image": null
   },
   {
-   "id": "a48",
+   "id": "a50",
    "title": "Automation, not replacement: the true promise of AI in radiology",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iM1VpNXZVRVh6aVY5eHRmWFpQR0o3TEJ3aVpwc2U0bXBJMHJZajI5dEhiM2JqY0VEQlVaUEdmbktnU2gtQnhxbkxDdGhwdkVIeFdaRWh0eXdnZEw3X21fVlFPOG9fcmprSUNNQVBTUXVjcTcwSi13?oc=5",
    "source": "healthcare-in-europe.com",
@@ -541,7 +563,7 @@
    "image": null
   },
   {
-   "id": "a49",
+   "id": "a51",
    "title": "Evernorth Invests $100M for AI Specialty Pharmacy Program",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOURPTk9pRjZ4UGc2T1Z6RUFyZ19YVmtzNVNhVF9NNFZwVWd4bFhRQXd3V0dsZjM5YmlwemFJUDVDWlNTb2w3bV9DU3ZfSERDWjB2REt2OFBmVjNSUWlaS2VBdXZSUVJ2QXdvR2NLanZXZFJIa2NEUEJ4NTJlQnBmdms3Y3BjWWFuNWV5SnV0Y0Jidmc?oc=5",
    "source": "MedCity News",
@@ -552,7 +574,7 @@
    "image": null
   },
   {
-   "id": "a50",
+   "id": "a52",
    "title": "Tampa doctor urges caution as more patients turn to AI for medical advice",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYnJmaXdZazBfcjdoRE4yX0tpZkNkbVdMNlhhOE1OTU9WbTNTOXBKTGZLQXFnbzllRU91Y19UZXA0bXU2NDZMMm9OVV85VERlcm53OEw1WE9EaTNqR0hzTTNQT3FGQkkwbTJrN1poTDRDRnlGQm96T3dCbnlhd0lPZ1ZKWVBEcE5uc3NiWk1lT0lXSHhFR1E?oc=5",
    "source": "Tampa Bay 28",
@@ -563,7 +585,7 @@
    "image": null
   },
   {
-   "id": "a51",
+   "id": "a53",
    "title": "AI transforms medical lab results on the Space Coast: Experts weigh in",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa1VlTE9fNXNxVGNpVklGdzlDV0xvMnFQMXNweWp5eVUzcl9fM2d1djhjSHphakhiV2NYaUo0UDBRWlZlMVExYUh1cEkwMDJHd2o3QmxRZ3BfMm8wU0VTRFlOMmRmOW8wLWpNT2RVZzAtNnNta0F2LW1CZ0VXNmd0eHRENjNydHRUMW96T1NpeENIeEVHNW91TNIBngFBVV95cUxQaUxfb0xLMUtZUDFnSWtOVUhkZVEtNGpfR1gzNk5zdktoMGRrZFBMQWJvdjNUbUJwRm5STnkwTzdUV1NxSG1BREFzamZJRmhZelhmOFk3WGZBdHJqOXZTUjI0TzJFdG91Tng0WjhiNm9wTHp3SFY2OTFnNWVRMDUtbDhvbTZYTmxMTkRVNU9JaVBWVnRudUZXMmNmcUt6dw?oc=5",
    "source": "FOX 35 Orlando",
@@ -574,18 +596,18 @@
    "image": null
   },
   {
-   "id": "a52",
-   "title": "Healthcare trade offers demand characteristics not tied to AI: Wealth Enhancement's Yoshioka",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTmo1czNtZWtySmwyVE9ZeE9WQ3pBdUVtbDg1NG9KNHNfSG1YYkhramVkVC1VNDRhaXJMem5FV3RUbzQ0d3lWeFZfbE5fcnN6NV9tMHZiWnRPaE5yR0RPM25LbmFCWG9EVS0ydVB1dkM2SlZxVkhnZ3dFREtzSVpIRlVUbmUyeEd0NXo2TGdIbjZKZF94dUR5M180Uk9UUWhqbEFUbmVFTmFJbTd5bXNLbTBSeFR4TGZLc3JmYWlPdGN5Um9aMExxck1PWGo1Zw?oc=5",
-   "source": "CNBC",
+   "id": "a54",
+   "title": "Avoid These Legal Pitfalls When Using AI Scribes",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUgxMjVTcU1wTTRuZUFUbG05T0ZuVU9zUXJFQkszbENSMTFveWZFdWdOTnhtVEJlMC1wX25IeFNaTzhBMUJud2M0VXEwcDdiUU16eXN2QWFhTllTTm12eFdIN2owdlZHcnpJODZ1aXg4REpvaVZfMzdOVnZpUGdIRHF5NkNUdTc1ai05YV96aU8wU2g4WWI0bzROQWpRNG8?oc=5",
+   "source": "Medscape",
    "category": "world",
    "region": "global",
-   "date": "2026-07-01T20:39:00.000Z",
+   "date": "2026-07-01T18:53:57.000Z",
    "description": "",
    "image": null
   },
   {
-   "id": "a53",
+   "id": "a55",
    "title": "Health care stocks and AI | Health care sector | Fidelity",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX0ZjaDV6UHlmZjc3dlQ4b2p5Y0M4bFBhblBVTlZRRjc2dGt4MHN0bk81dUhEWVM3bk9OdnhwSU9UUGVlWnVzbndGaDlNaFhtd1ladmxyQ0YxdTlTQmJ4RXdRdEphSE5fTDh3WmJSYjN2UndwV2hENjdOaVBhU2MwRjFIZw?oc=5",
    "source": "Fidelity",
@@ -596,7 +618,18 @@
    "image": null
   },
   {
-   "id": "a54",
+   "id": "a56",
+   "title": "OpenLoop acquires AI communication platform Hey Revia",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOFA3Sk9XNklZSjlkT2dvemVRLUNkc1Zuazd1aUdVRTlrZ3ZaYk1TSXY3WUhQcjF2a0F0dkM1c3VuWDNwaXAwU0ptWF9mS1dZQ2JiV1pCdlRUSnRwekZ3RlBjRGZ1QmNsLVNLTnBsRnpEdkVxUjlDSm1UV0JDOGNPZV8ydXZOeFMzMEs2XzhqWHRNNEE?oc=5",
+   "source": "MobiHealthNews",
+   "category": "world",
+   "region": "global",
+   "date": "2026-07-01T17:58:54.000Z",
+   "description": "",
+   "image": null
+  },
+  {
+   "id": "a57",
    "title": "Zelis rolls out AI solution to help payers navigate No Surprises Act dispute process",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0xORklTR1NKZ092bFVWdm53MUtnSGZSMWRhd3VBWjNpaHFjTDZNVnl6dURjODdoU2l3SWxra0oyN2dRVjlseVJxaEVwN0hfQklUcUszNGF2clRsRFBHZGJYdWtnSElqYlZOemw1Zm1iZzd2UWhiQWE1MU9xb2ZwbXN3cXVCdmw0cFZxa3Z4aldHallxY0ZNb1NKVklaWmZkZFNYWUw1YXdKeUFTdmNFZA?oc=5",
    "source": "Fierce Healthcare",
@@ -607,7 +640,7 @@
    "image": null
   },
   {
-   "id": "a55",
+   "id": "a58",
    "title": "Experity Acquires Exdion Healthcare to Accelerate AI-Driven Revenue Cycle Management Automation for On-Demand Care",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQM1dmTFFVVkZVcTA3MnBoZkJwZ195NllKQXBKZHV3WFpRRVIzSWZkN21CTDhrZFE4R0lRWjc3RmtOSGFUYVVTeUZFZUJ1cjJZN1ZBMzNnbGVGd0NDNklWODdRVjdHVUE0TTFtbXZOam5MOHJmaWFqQ1Z3Q0gtSGV3Rk1kUVZxOFltWDc2SW4za2NDVU5JSGFWQ3J2UTRsYVRFRXhVXzlMSzdsYmZQa3dLdURrUk1oMmNJall3c3NRdkNYTGU2elZRdy1jdW1WeUEwbDJYNGVmVTlWeldEMzhpRlBaUGxLVUZsdjczUE9JU2FUb25jRVFfZGpoaWxOUzg?oc=5",
    "source": "PR Newswire",
@@ -618,46 +651,13 @@
    "image": null
   },
   {
-   "id": "a56",
+   "id": "a59",
    "title": "Evernorth is investing $100 million in new AI capabilities for specialty pharmacy",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMVJRaFI2MWlCbXA1Z2gtRXhkeE5ya2FVbjR3RkMzZmdlQ2JzRWFnUnV6X0ZHbVRzOEtLRE93WjFQT1J2MzkyRXNfdmNnSWZyaG9qVGtWX1FxV3RXU2hXR3duNUJlMmtDTFRuRENqMm9DOWxDWjBwU1Qyc3pZTDlMbmV1YTY0MmxOR1FuRmdKV2MxMVNqV0ZsT1JUOW9scGo3NkNVZjE1X3BSN3A5ZFNhcGdzNA?oc=5",
    "source": "Healthcare Finance News",
    "category": "world",
    "region": "global",
    "date": "2026-07-01T15:04:36.000Z",
-   "description": "",
-   "image": null
-  },
-  {
-   "id": "a57",
-   "title": "Future healthcare workforce depends on AI",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaWlrR2ZWWVRISGhhOFlRNlM5bkR6dzhwYVBVSnpiN05KLWpQYkh2THNzX2xYU21qQ29JR3l4a3d0Tks4R19iSlFLbU43bHRacE9WcjI3a2FEeHdPVi1Ma1BZZnM0TFFHWGRYTUdqcEp6eXowbmExTDFod3lWbVI4Ng?oc=5",
-   "source": "MobiHealthNews",
-   "category": "world",
-   "region": "global",
-   "date": "2026-07-01T14:33:27.000Z",
-   "description": "",
-   "image": null
-  },
-  {
-   "id": "a58",
-   "title": "AI is already in your medical practice. The question is whether it's there legally",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMDg5VS0zdmZLWXBCTkVOQ2xPSkZ1alBybWVQOGUyY2c0R1ZiTlBWSWh3Z2NNR0gxaTlNc1dlZmtQMXREY0V2T0xaUGxqaFYzWWhLeFhBYmE3ZlBwWDE1UnBUa3EzUHFnTXJsN0JOcng3ODBSV1JXNlhRR1RGNHgxN1plTThuckFiVVBBQlZtcmxmWk8tM3l0VkJwWmxHZGZCeVhiVVh0aVB3QW5NandVYVMteTdZUEE2MnFr?oc=5",
-   "source": "Medical Economics",
-   "category": "world",
-   "region": "global",
-   "date": "2026-07-01T14:31:49.000Z",
-   "description": "",
-   "image": null
-  },
-  {
-   "id": "a59",
-   "title": "AI relieves burnout, contributes to patient misinformation",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmViYXlxa3lRbElOOVlKbTJ3MWZHckRpQl9vQ0RaOXRlalFMUW1kdXZOdnA5TlZtczBrek9UcTdYWlRQSW5SSUYzd2V6bU5HWnN4TGZfbnQ1ZEJoSERUa0JOV3N1cGRHbHdDZWRta0xSNFF3bUpBdFBMbi1BdDNDTzVEcGpLYl83b1c2NzJHNHl6TkM4VzVNZGJCOENOTTQ?oc=5",
-   "source": "Healthcare Finance News",
-   "category": "world",
-   "region": "global",
-   "date": "2026-07-01T14:31:26.000Z",
    "description": "",
    "image": null
   },
@@ -921,7 +921,7 @@
    "source": "Financial Times",
    "category": "startups-funding",
    "region": "global",
-   "date": "2026-06-24T17:00:01.000Z",
+   "date": "2026-06-24T07:00:00.000Z",
    "description": "",
    "image": null
   },
@@ -960,23 +960,23 @@
   },
   {
    "id": "a87",
-   "title": "AI startup Midjourney enters health tech space",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaEtWZEViZ2Q3aUJmTUlzc0ZiRGZNUUxnUFNWZDFZQWZwQTRTenhJU2pNbEZYRG9BR2k0UHBmOHNRejZrZEtLR2w5UVRobVE4bndzSjV3TzlobWVkMmFyS2pDOVVSQVk0MWJCajNGdFZobEZvV3ZMbG9ObThVS3VRZ0xIUDRnUlc0NzkxM1VQMGJNcGtSbVQ0bm13eUl6RXBm?oc=5",
-   "source": "Health Tech World",
-   "category": "startups-funding",
-   "region": "uk",
-   "date": "2026-06-22T09:03:14.000Z",
-   "description": "",
-   "image": null
-  },
-  {
-   "id": "a88",
    "title": "Sir Keir Starmer resigns – what will it mean for social care?",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ETEJraFViNENlN2lTN3A2dE1xQ1NFV0RRNEV4aFVCUWhiUER6QXJyd05La0M2dEp2UnZwQVNzaTRrTm52MDRuUVRMamtIRGV1Z1B3eXZlUjZUVTdITkxRNWdQaEttV3RoTWJwaFo0RFRuaUM2dTdNRWpLUVBEV1U?oc=5",
    "source": "Care Home Professional",
    "category": "social-care-tech",
    "region": "uk",
    "date": "2026-06-22T08:58:03.000Z",
+   "description": "",
+   "image": null
+  },
+  {
+   "id": "a88",
+   "title": "AI startup Midjourney enters health tech space",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaEtWZEViZ2Q3aUJmTUlzc0ZiRGZNUUxnUFNWZDFZQWZwQTRTenhJU2pNbEZYRG9BR2k0UHBmOHNRejZrZEtLR2w5UVRobVE4bndzSjV3TzlobWVkMmFyS2pDOVVSQVk0MWJCajNGdFZobEZvV3ZMbG9ObThVS3VRZ0xIUDRnUlc0NzkxM1VQMGJNcGtSbVQ0bm13eUl6RXBm?oc=5",
+   "source": "Health Tech World",
+   "category": "startups-funding",
+   "region": "uk",
+   "date": "2026-06-22T07:00:00.000Z",
    "description": "",
    "image": null
   },
@@ -1510,17 +1510,6 @@
   },
   {
    "id": "a137",
-   "title": "More leading researchers brought to the UK, while Horizon Europe performance strengthens in 2024",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNalZNTnpKdFFsREs4YUVFdVpZcnFEaHhsN1FWRGJyS0JJaG1qYXhIVkpicEpKLVZZaGtFZExja2dfV284cWQ0ZGNHTFFqX2E3ZWxiWXU0eTkxdEJoM1RjTE5GOEFOc2E4aEhtWDFmNFdEcVdIZ3l0X0FYWWd6TTBBQng5Q3FFMzBjM3V3VVBzR0ZybHNOYTY5TWhIdmZxTzRUbXFrNk51R01Pb3NneGJpQ1I5ZmdPSFpuaHkzbDBUUlR3aGVMS1pfQmF3?oc=5",
-   "source": "GOV.UK",
-   "category": "research-innovation",
-   "region": "uk",
-   "date": "2026-06-05T07:00:00.000Z",
-   "description": "",
-   "image": null
-  },
-  {
-   "id": "a138",
    "title": "'World-first' vaccine designed by artificial intelligence",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12UmdObXF4dldNelJBaWFsenpDSTFQTENQOXdYeF96THpOLTg0MjlVeElTTFBVNVVxWFZoeTZkX05JbkdTaGJubkFtTlkwbE9td1phRkd0SWV6Nld4?oc=5",
    "source": "BBC",
@@ -1531,7 +1520,29 @@
    "image": null
   },
   {
+   "id": "a138",
+   "title": "New ‘universal vaccine’ technology could protect us from future virus outbreaks",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaUNTSEpJX0k2LVc5cGlEN2psbFFKMUZIRkNtYzVfNjJERDVkRE1PbzRTOVJlSHJYdm4tWjRRaTNsSVp5QmpoS3RKOWdxd1NHbGU3dDljb1VITkRNaWR0WUFocTQ0Wjl1Rlo5U1VMcXVpbUNRT29NbHMtR0QwUjA3ckl5aFpsNXJ6dHgyVnlrUWxoRmZldHFrSzRDVm9jSVlwVHhIa2xzWXRoU2RKRjZyRFRhVQ?oc=5",
+   "source": "University of Cambridge",
+   "category": "research-innovation",
+   "region": "uk",
+   "date": "2026-06-05T07:00:00.000Z",
+   "description": "",
+   "image": null
+  },
+  {
    "id": "a139",
+   "title": "More leading researchers brought to the UK, while Horizon Europe performance strengthens in 2024",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNalZNTnpKdFFsREs4YUVFdVpZcnFEaHhsN1FWRGJyS0JJaG1qYXhIVkpicEpKLVZZaGtFZExja2dfV284cWQ0ZGNHTFFqX2E3ZWxiWXU0eTkxdEJoM1RjTE5GOEFOc2E4aEhtWDFmNFdEcVdIZ3l0X0FYWWd6TTBBQng5Q3FFMzBjM3V3VVBzR0ZybHNOYTY5TWhIdmZxTzRUbXFrNk51R01Pb3NneGJpQ1I5ZmdPSFpuaHkzbDBUUlR3aGVMS1pfQmF3?oc=5",
+   "source": "GOV.UK",
+   "category": "research-innovation",
+   "region": "uk",
+   "date": "2026-06-05T07:00:00.000Z",
+   "description": "",
+   "image": null
+  },
+  {
+   "id": "a140",
    "title": "Founded after personal loss, Joyvié Health raises €897k to rethink continence underwear",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa1JiY0FubnA0Vkt2VlpxUGtMV3RyVVRFMHBTN3VYNkUwNUEwOG9LYWVfMXRwZ3kyUmRtYktGR0dLOW15LVFHbUx6ekFLNTh2UENkRDg4RUNDUzdEdDdidU13eVhBcnhPWVNhbVZvWlVLLW96aHdkc05aeldxVjM2RHVSTGF0RUR0eGlUR2JvbF8wbVNWMmdEQVdmUURvRU5zamF1Z2dmZG9oRnlicmR2M2JZQzlVUmpLYVctbXlzYjg?oc=5",
    "source": "EU-Startups",
@@ -1542,7 +1553,7 @@
    "image": null
   },
   {
-   "id": "a140",
+   "id": "a141",
    "title": "Adult social care provider statistics, England: quarterly update to May 2026",
    "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOaXowc1VfdDFVM1gtekJrZ29CX01zWDlmdkxTMDM1QU9HOXJROElSX0swbWk1Z1FYa1FJcnJZSWZyY2kzR1hUMHM1QlJ2SWJZeU0xYUh4TlRLY3RtOFVuQWVJOVhaeXpqVkFkT1N0UV9ZWFk0SnBaYnRTNzYwVEpCemk5c0lrUDFIZFo2b3dQaEJyZTFHbWRycXlRYm9OcU9MaWJkcGl1UE0yQ01YNGRhMVVCXzFKdTVxckMwVzhFOEFSTTRtSkNOZG8xNnRWYm5RdkVoYktsRFJsQjdrcnRnX09aVmpNQ01adXBSSkViZmJfVjZyWmhjQ1NQRlVzVHVVNEtpYXVjSE5JVGVSUDEwMFhJWUI2QkJ1OFE?oc=5",
    "source": "GOV.UK",
@@ -1553,7 +1564,7 @@
    "image": null
   },
   {
-   "id": "a141",
+   "id": "a142",
    "title": "AxisCare Secures Strategic Investment From LLR Partners To Accelerate AI-Powered Home Care Platform Growth",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc0p0NnVQNmNZRW0xQlJtbFVTd2JRQko4aDdrZ19pMjZsTkJRZEs4bmVJVnpCMHlUdkVPenUxRkYxUXkzOV9MdVpfd3EtcmNnLVNkXy1kOFV1MmN1RVNfY2pUeUVMcW5YYUk5SXJWMUNhWEthay1zdGo3X25fUmt6UV9acThXeHUtdEJValNNbVJYRDRueVdGTXBnTGZiX2NLaDdDQXU3b0lHSlRlbkIwVU0xODdLa1NQMUh1bDYxWjY5UnNY0gHKAUFVX3lxTE5OMG9rRndXSGN1UGV0MndoR1FVUU1hTVcydG1CbDZ1THhodV9zaWQ4UUNwQkg1cmRveUZ1VE1LQ2hnV3JibVE2SXduZUlDTGNWRHQ0WHJYWGFUc055U2pqYlFnd0h6M3JXUUdwbTI1SUlSVHNSZFZpR2dkcVZQYUY2OVhabFc4RjB3eEVHcFhZcGlPNk9JX0pjNUtPOHcwMkVrazJPNFFEb0lISnp1V05WeGMtdXJFMmdGRG1LRHVxMkc5YkNDY1VUa3c?oc=5",
    "source": "Pulse 2.0",
@@ -1564,7 +1575,7 @@
    "image": null
   },
   {
-   "id": "a142",
+   "id": "a143",
    "title": "NICE framework to help digital care assessment",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUUMxaks5Yzg2MFZpcjA5ODhDN1BqaTJNRkRLc0p2Q0ltQzIyY0dleklfdlY5SjFpdlpRb0RzdTFiaTMteEZ4MDhaRW5SQWtvci04TDgxYkc4cllpVWU3SmpUUjhkU3JYVkJSaGp4R01CZy12a0E2bkUwaVEtU251X2FwWFlGdzRITk9R?oc=5",
    "source": "UKAuthority",
@@ -1575,7 +1586,7 @@
    "image": null
   },
   {
-   "id": "a143",
+   "id": "a144",
    "title": "Summit Care Group announces acquisition of Herncliffe Nursing Home",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rdERkUV80T21TX3V1TmtHdWhTMW1BMkVYTFVkSTZwc2Zub0FKV1Fod013Y1JQZ1paUGswN3FnWFUzNE05aThOeFdzQm5hY3ZKUllaWTVvVmZYNmZGUDU3aTVzUmloQTdUU0Y2aEpCWGRzV3VF?oc=5",
    "source": "Care Home Professional",
@@ -1586,7 +1597,7 @@
    "image": null
   },
   {
-   "id": "a144",
+   "id": "a145",
    "title": "BBH health tech round-up: May 2026",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lbDgtU3dfM0lqcXlaX3BVTmVqb1RPdC03WmFUSFMzRUNCLV90V0VtSWVHQXlWSUtHVE1RWmFyc0p5TDhrYmd0bGYwaUZCVWxsRHBxTG1xV3VpMmFQcE1zaElrTkdBUEFFY1ZJa1V2X2lpeFNFZ3pBSHpR?oc=5",
    "source": "Building Better Healthcare",
@@ -1597,7 +1608,7 @@
    "image": null
   },
   {
-   "id": "a145",
+   "id": "a146",
    "title": "Wynwood Personal Care Home celebrates 25 years with new AI tech in resident rooms",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2d1bjdzZG8tdFpWamMyUmtBNDNhWm5FdktKU3YwNDNfQUVHY0ZBUjdDdjRmS0NvWkZxLTBYTXBDQVMwV0ppMVZta1lhVEJ0WnhMenlLeTlhaEYwUTk2WG1WMzZBaDRZeVE3X3pRc2tGaGJFbmh4Vkp6ZThXZ3c5c3RsTXJKdVR3cjVuc3V2VXhSbUh0WkptdXJFRS1SVEdmcmJLSTk5TWtaZ1JFazB0Xw?oc=5",
    "source": "WJAC",
@@ -1608,7 +1619,7 @@
    "image": null
   },
   {
-   "id": "a146",
+   "id": "a147",
    "title": "CQC progresses regulatory model and assessment frameworks for AI",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVkZncnZHV2MweEMwSnE5UmU4Mjl5RnJpNW4yQldNeUZMWWlNbjZKN1lpeTAyVGVyYmFZUEx2QXc1b0R4amtkUVFJS3Nxdkl0X1owU0ctcHQzWEpDSDN1b0JDdl91VmUwRHpTa3Z6Mk1CbkNOakw1ZjNWOU1wcHBDUndsM1V3UjZVR19jdGVzc1RTWldoOW9HZUtR?oc=5",
    "source": "HTN Health Tech News",
@@ -1619,7 +1630,7 @@
    "image": null
   },
   {
-   "id": "a147",
+   "id": "a148",
    "title": "Personal cancer vaccines using AI gets research funding in Oxford",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95RHdjLTFKNDhUZHZjT19mVk1CTE03WUlzeUpHUWlkX0tVa2JnWnB4c2N4b3Jtam1JV0ZBSjYxYUxsSndSRmh0N25GQlBnQnJRYWNwMG1oN21Pdw?oc=5",
    "source": "BBC",
@@ -1630,7 +1641,7 @@
    "image": null
   },
   {
-   "id": "a148",
+   "id": "a149",
    "title": "Bristol NHS Group and Highland bring health tech innovation directly to health and social care staff across Bristol, North Somerset and South Gloucestershire",
    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQaEIxTlJEaFFBMHc0TVc0Rzd5ck5ERk1fVXZ3QUU2VVBLRmJyTlZrN0lrWEM2dklhZWFNMmdNeFlOd0ZiY0oxbUt5ZlZUSTVaYlN0LVRWeWFIdW8wOTRzZTU2NzB6ZzkyWHdkSmlhU3lCU2h0aENPbldKRlVaTUM3VnJ2Y0tJVVY2SG83M191RjR0d0QxQXNiSUdxQmFXcVdlUTd4aExSejJ4ZDJmTEZrV01TSDhOWXN6Uk5hR0NVTGVpM21BMmx3dUJpa0JmZlgzNlhmRkxNM290TS01VFZjRjVfc1BZODhLVko1OWFwSDZ4VlNUaENsMW54UWVicDYyVnpNR1FkRTRsSEtIUGFFM18yLTJkbXRwQm9yYWgyQXVfM1k?oc=5",
    "source": "Med-Tech Insights",
@@ -1641,7 +1652,7 @@
    "image": null
   },
   {
-   "id": "a149",
+   "id": "a150",
    "title": "Tunstall Healthcare appoints new head of business-to-consumer health technology programme",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMHg3TmV1ZEw2eWJOcFhBQ1Y5SWQwM0tEZmZ6OTNCbFFubWxWVE4ySkFfazNCZVo0N2NrU0N1NVlFNGZNRHdObHpQbzhqbmpEMTlZeUVBNGlIQUdKZ2w3Q1lvcVJ3VXY4Q29zUDl6VmdIcHBQSlZRVVk3ZEFVakZRS3o3TTdIS3pRbTNFUkgwZGk1LS1JcWk0WmRoOC1kbnBJNmp5THA1RHJfMGdHOV9B?oc=5",
    "source": "THIIS Magazine",
@@ -1652,7 +1663,7 @@
    "image": null
   },
   {
-   "id": "a150",
+   "id": "a151",
    "title": "Lookout launches AI-powered platform overhaul aimed at transforming home care delivery",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM25DUnhZTm9fYi1Zc1dzVzFWQVhyWjJzejZOUFlrY0RlbkNPYXh3d1UzdXpFWV9QRXdoc2wyYTNIZjk3amJjS01ScmN3QlB2bUtrZkh3ZDJsYTFDVWVoZHI3Smp2Tk1wNEJkd2hmdDAtTmQ4allLWXFJRlFud1k3QV92eEJabzdiYmNVZ2wxdGpKZE01TTd5eWpmOHhidk9rTVpfRHozVnNOUnFfRS1DWl8tNnJJdw?oc=5",
    "source": "Inside Ageing",
@@ -1663,7 +1674,7 @@
    "image": null
   },
   {
-   "id": "a151",
+   "id": "a152",
    "title": "Health-tech startup Aurae eyes pre-Series A funding round",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTDNKX09IT1lDdFBSZTM4REF3OGhXTG5QNlZLZUlBMm5WZzNZSlFfeDd6ZWRXVGsya080WlMzUUtqYnZvUDFaRUF4NzlRWTJxTktlX0NLdld4b0hwWng2T2xXUVhBcE9DNkJGMlF1Vk9fYUhEYVR0TEsxS21QUG5LOWdnRXktRlVn?oc=5",
    "source": "VCCircle",
@@ -1674,7 +1685,7 @@
    "image": null
   },
   {
-   "id": "a152",
+   "id": "a153",
    "title": "Jayne Connery, director of Care Campaign for the Vulnerable, will speak at the Leaders in Care Conference",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmRFNZLWh6dENMT3l3QVBCSmhBLXdWNUNYQThsZTQxeWkwVWNYd3NaZWo3WjhlR1ZPaGxCYVllQ2tzQTQ2VGVVd2Z6ZWxNT2xFRkc0bEJrWnZlUVpOWXNJRVFQcjZ4anR0UTc3bDBXMlBZd0RxT0gtc3Z3?oc=5",
    "source": "Care Home Professional",
@@ -1685,23 +1696,12 @@
    "image": null
   },
   {
-   "id": "a153",
+   "id": "a154",
    "title": "UK and France launch landmark biomedical and AI health alliance to accelerate research into major diseases",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT2FibE1fbjFCalJZdGJzd3FmU0hZV0hLalh5U0ZkOG1kNnA4aHBRa0d4ME1zUUFtUzViNm5KaVpWcktxdkNiYWxScjVGbnZXbWRmaVpGcTRZR0lDd3otNDFVMFg4VDZVczlnMHZyQ3Z0elhxU0x2dzJzcnp6OF9BWXFqQWNmTGg5UEdqNERvTFJrMElqOWpFc181VEE2bzdVcThvekZ3X2hRU1lyYi1ScV8yX05GVjd1VWJrNDdGSTZtZFFuZ1lBY3Ayb25xSXhHU2hwc1prcTZ6c25IbTdNclA5aWttUQ?oc=5",
    "source": "Institut Pasteur",
    "category": "research-innovation",
    "region": "uk",
-   "date": "2026-05-29T07:00:00.000Z",
-   "description": "",
-   "image": null
-  },
-  {
-   "id": "a154",
-   "title": "Nigeria added 65 healthtech startups after COVID-19, says report",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGxzV1hjbUpsWk82aVU3NzZXc0p5SGx5STlXTzBIUTRiUE9jX0Nncmk3dWhkLWdrZUV1ejlrOW9UYXNhemRsTmhWLTBlTU1rd0ljWUp3RnVsbjRRckVsa1FJX3B0azBRTFlBbGZVcTFWalhEdVh1YW1EbW9MbFFOQTRONUlCckZRVDNLSXhwQVJscm5SLVNvejFMZm5zQQ?oc=5",
-   "source": "TechCabal",
-   "category": "startups-funding",
-   "region": "global",
    "date": "2026-05-29T07:00:00.000Z",
    "description": "",
    "image": null

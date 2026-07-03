@@ -17,6 +17,7 @@ export default function HeroCard({ article }: { article: Article }) {
         alt={article.title}
         gradient={cat?.gradient ?? "from-slate-700 to-slate-900"}
         label={cat?.short ?? "News"}
+        source={article.source}
         className="absolute inset-0 w-full h-full transition-transform duration-300 group-hover:scale-[1.03]"
       />
       <div className="absolute inset-0 bg-gradient-to-t from-black/95 via-black/40 to-transparent" />
