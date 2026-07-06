@@ -79,7 +79,7 @@ const FEEDS = [
 
 const parser = new Parser({
   timeout: 15000,
-  headers: { "user-agent": "Mozilla/5.0 (compatible; CarePulseNewsBot/1.0)" },
+  headers: { "user-agent": "Mozilla/5.0 (compatible; CareZenoNewsBot/1.0)" },
   customFields: {
     item: [
       ["media:content", "mediaContent", { keepArray: true }],

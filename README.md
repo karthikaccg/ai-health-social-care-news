@@ -1,4 +1,4 @@
-# CarePulse — AI in Health & Social Care News
+# CareZeno — AI in Health & Social Care News
 
 A OneFootball-style news site for **AI and technology in Health and Social Care**, UK-first with a World section. Built with Next.js + Tailwind, statically exported and hosted on GitHub Pages.
 
