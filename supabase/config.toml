@@ -1,0 +1,16 @@
+project_id = "carezeno-news"
+
+# All three functions are public HTTP endpoints with their own auth model
+# (subscribe: no auth, called from the browser with just the anon apikey
+# header; unsubscribe: opened as a plain link from an email client, can't
+# send an Authorization header; notify: authenticated via the NOTIFY_SECRET
+# header instead of a Supabase JWT). Disable Supabase's own JWT
+# verification on all three so they don't 401 before reaching our code.
+[functions.subscribe]
+verify_jwt = false
+
+[functions.unsubscribe]
+verify_jwt = false
+
+[functions.notify]
+verify_jwt = false

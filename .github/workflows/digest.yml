@@ -1,0 +1,40 @@
+name: Email news digest to subscribers
+
+# Sends subscribers a digest of new AI-in-health-and-social-care news every
+# 6 hours. Independent of the site deploy so email keeps working regardless of
+# where the site is hosted. The notify function dedupes against articles it has
+# already emailed (sent_articles table), so a subscriber only ever gets each
+# story once — the frequent schedule just means new stories go out sooner, never
+# a repeat of what was already sent.
+on:
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours
+  workflow_dispatch:
+
+# Don't let a slow run overlap the next scheduled one.
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch latest news
+        run: node scripts/fetch-news.mjs
+
+      - name: Email digest to subscribers
+        run: node scripts/notify-digest.mjs
+        env:
+          SUPABASE_URL: ${{ vars.SUPABASE_URL || 'https://fyghjspzdfoddahxuugj.supabase.co' }}
+          NOTIFY_SECRET: ${{ secrets.NOTIFY_SECRET }}
